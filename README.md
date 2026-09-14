@@ -3,9 +3,9 @@
 
 ## Student Information
 
-- Name:
-- Student ID:
-- Partner:
+- Name: 고대웅 (Stellar2392)
+- Student ID: 2022732052
+- Partner: 고대웅 (rheodnd1208-ui)
 - Course: 인공지능응용
 
 ## Practice
@@ -25,4 +25,14 @@ This repository is used for GitHub collaboration practice.
 - Git Repository
 - Commit
 - Branch
+- Pull Request
+
+## Branch Practice
+
+This section was created in the branch_pr branch.
+
+- Branch creation
+- File modification
+- Commit
+- Push
 - Pull Request
