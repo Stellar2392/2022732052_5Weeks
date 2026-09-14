@@ -16,3 +16,14 @@
 - Pull Request
 - Collaborator
 - Fork
+
+## Repository Practice
+
+This repository is used for GitHub collaboration practice.
+
+### What I learned
+
+- Git Repository
+- Commit
+- Branch
+- Pull Request
