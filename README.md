@@ -1,4 +1,4 @@
-# 2022732052_3Weeks
+# 2022732052_5Weeks
 # AI Application - Week 5
 
 ## Student Information
