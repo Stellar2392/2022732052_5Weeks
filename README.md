@@ -7,6 +7,7 @@
 - Student ID: 2022732052
 - Partner: 고대웅 (rheodnd0604)
 - Course: 인공지능응용
+- 두 개의 계정을 이용해 실습
 
 ## Practice
 
