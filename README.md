@@ -3,9 +3,9 @@
 
 ## Student Information
 
-- Name:
-- Student ID:
-- Partner:
+- Name: 고대웅 (Stellar2392)
+- Student ID: 2022732052
+- Partner: 고대웅 (rheodnd1208-ui)
 - Course: 인공지능응용
 
 ## Practice
